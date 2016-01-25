@@ -1,0 +1,10 @@
+---
+title: "README"
+output: html_document
+---
+
+### This project just has one R script for whole code.
+
+### run_analysis.R - This file contains the code for the Data Wrangling Project which is a part of Springboard's Foundations of Data Science Workshop.
+
+### CodeBook.md - This file contains the full code with the explanation for the functions used. This is very much similar to the script with a little editing.
