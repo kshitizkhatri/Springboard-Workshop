@@ -1,0 +1,16 @@
+This one is a completed competition on Kaggle, floated by AirBnB.
+
+This data set has a lot of user related data as well as the sessions data spend by user on the website.
+The goal of this problem would be to predict which destination would the next user choose.
+
+https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data?countries.csv.zip
+
+2. This one is a data set, I am thinking to work upon, it is related to marketing data for Portuguese Bank containing the information of their customers who they're targeting for a particular product through phone calls. 
+The goal of this problem set would be to target the customers on the basis of the data collected.
+
+https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+
+3. This one is again from UCI Machine Learning website, it is Amazon Commerce's data for authorship identification. 
+This one is largely related to the text analysis and might require very specific skill. Though not sure how to frame a problem around this data.
+
+http://archive.ics.uci.edu/ml/datasets/Amazon+Commerce+reviews+set

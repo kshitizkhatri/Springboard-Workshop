@@ -1,0 +1,16 @@
+Milestone Report
+
+AirBnB New User Bookings
+
+The problem here is to predict the which country out of a list of 12 countries will be the booking destination for a new user.
+
+I have six different files as a part of data sets in this problem set with the data for train and test users data set, containing 16 different variables each corresponding to a user. Further, I have web sessions log as the heaviest data set with a recording of six variables and more than 10 million observations which includes the actions taken, time spend on the website, device used etc.
+
+I have age gender buckets for the users, which gives more idea about the demographics of the users. And lastly I have the details of the destination countries.
+
+The most important field is in the train data set for obvious reasons as it contains the details of users who have made the bookings with AirBnb and will be very insightful in predicting the destination countries of the new users.
+
+I am still studying the data, so I haven't wrangled it much, though there is not much of a need to clean it. There were missing observations in many places, and hence I have just fixed it by placing NAs for all the missing observations, might make the analysis easier.
+
+I haven't started any exploration, but I would like to start working on the web sessions data first and would like to group it by users and then may be explore the session time for every user.
+
